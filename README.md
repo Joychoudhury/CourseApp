@@ -8,6 +8,7 @@ Check out the demo video of the Course Selling App:
 [![Demo Video](http://img.youtube.com/vi/qSP23P9KFjQ/0.jpg)](https://www.youtube.com/watch?v=qSP23P9KFjQ)
 
 
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
