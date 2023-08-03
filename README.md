@@ -2,7 +2,10 @@
 
 Welcome to the Course Selling App! This is a web application designed to allow users to buy and sell courses online. This README file will guide you through the setup and usage of the app.
 ## Demo
-<iframe width="688" height="387" src="https://www.youtube.com/embed/qSP23P9KFjQ" title="example" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Check out the demo video of the Course Selling App:
+
+[![Demo Video](http://img.youtube.com/vi/qSP23P9KFjQ/0.jpg)](https://www.youtube.com/watch?v=qSP23P9KFjQ)
 
 
 ## Table of Contents
