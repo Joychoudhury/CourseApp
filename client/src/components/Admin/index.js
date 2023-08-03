@@ -1,0 +1,7 @@
+export { default as AdminLogin } from './Login'
+export { default as AdminSignup } from './Signup'
+export { default as AdminNavbar } from './Navbar'
+export { default as AdminLanding } from './Landing'
+export { default as AdminCourses } from './AdminCourses'
+export { default as AdminCourse } from './Course'
+export { default as AddCourse } from './AddCourse'
